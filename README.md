@@ -1,4 +1,4 @@
-<h1><i><b>Flask</b></i></h1>
+<h1 align=center><i><b>Flask</b></i></h1>
 
 _To use python on server site scripting we use flask and django._
 
